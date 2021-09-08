@@ -2,305 +2,40 @@
 title: Committees
 layout: default
 ---
-<div class="row t30">
-	<div class="medium-8 columns medium-offset-2 end">
-		<article itemscope itemtype="http://schema.org/Article">
-      <header>
-				<div itemprop="name">
-          <p><img src="https://clustercomp.org/2021/images/logo/logo.png" alt="IEEE Cluster 2021"></p>
-					<h1>Organizing Committee</h1>
-				</div>
-			</header>
+## Organizing Committee
 
-			<div itemprop="articleSection">
+### General Co-Chairs
 
-  <h2 id="general-co-chairs">General Co-Chairs</h2>
-  <ul>
-    <li><strong>Toni Cortes</strong>, Barcelona Supercomputing Center (BSC) and Universitat Politècnica de Catalunya (UPC), Spain</li>
-    <li><strong>Kathryn Mohror</strong>, Lawrence Livermore National Laboratory, USA</li>
-  </ul>
+### Program Co-Chairs
 
-  <h2 id="program-co-chairs">Program Co-Chairs</h2>
-  <ul>
-    <li><strong>Ewa Deelman</strong>, The University of Southern California (USC), USA</li>
-    <li><strong>Lin Gan</strong>, Tsinghua University, China</li>
-  </ul>
+### Web Chair
 
-  <h2 id="local-arrangement-co-chairs">Local Arrangement Co-Chairs</h2>
-  <ul>
-    <li><strong>Karen Karavanic</strong>, Portland State University, USA</li>
-    <li><strong>Xinghui Zhao</strong>, Washington State University, USA</li>
-  </ul>
+### Registration Chair
 
-  <h2 id="virtual-arrangement-co-chairs">Virtual Arrangement Co-Chairs</h2>
-  <ul>
-    <li><strong>Min Si</strong>, Argonne National Laboratory, USA</li>
-    <li><strong>Antonio J. Peña</strong>, Barcelona Supercomputing Center (BSC),  Spain</li>
-  </ul>
+### Publicity Co-Chairs
 
-  <h2 id="virtual-platform-chair">Virtual Platform Chair</h2>
-  <ul>
-    <li><strong>Kaiming Ouyang</strong>, University of California, Riverside, USA</li>
-  </ul>
+### Proceedings Co-Chairs
 
-<h2 id="web-co-chairs">Web Chair</h2>
-<ul>
-  <li><strong>Vítor Silva Sousa</strong>, Snap Inc., USA</li>
-</ul>
+### Financial Chair
 
-<h2 id="web-co-chairs">Registration Chair</h2>
-<ul>
-  <li><strong>Hari Devarajan</strong>, Lawrence Livermore National Laboratory, USA</li>
-</ul>
+### Student Funding Liaison
 
-<h2 id="publicity-co-chairs">Publicity Co-Chairs</h2>
-<ul>
-  <li><strong>Emmanuel Jeannot</strong>, INRIA Bordeaux Sud-Ouest, France</li>
-  <li><strong>Osamu Tatebe</strong>, University of Tsukuba, Japan</li>
-  <li><strong>Daniel Cardoso Moraes de Oliveira</strong>, Fluminense Federal University (UFF), Brazil</li>
-  <li><strong>Cathie Olschanowksy</strong>, Boise State University, USA</li>
-</ul>
+### Student Program Chair
 
-<h2 id="proceedings-co-chairs">Proceedings Co-Chairs</h2>
-<ul>
-  <li><strong>Bernd Mohr</strong>, Jülich Supercomputing Centre (JSC), Germany</li>
-  <li><strong>Zhao Liu</strong>, National Supercomputing Center in Wuxi, China</li>
-</ul>
+### Workshops Co-Chairs
 
-<h2 id="financial-co-chairs">Financial Co-Chair</h2>
-<ul>
-  <li><strong>Rosa Badia</strong>, Barcelona Supercomputing Center, Spain</li>
-</ul>
+### Posters Co-Chairs
 
-<h2 id="student-funding-liason">Student Funding Liason</h2>
-<ul>
-  <li><strong>Sunita Chandrasekaran</strong>, the University of Delaware, USA</li>
-</ul>
+### Tutorials Co-Chairs
 
-<h2 id="student-program-chair">Student Program Chair</h2>
-<ul>
-  <li><strong>Song Fu</strong>, University of North Texas, USA</li>
-</ul>
+## Technical Papers Committee
 
-<h2 id="workshops-co-chairs">Workshops Co-Chairs</h2>
-<ul>
-  <li><strong>Felix Wolf</strong>, Technical University of Darmstadt, Germany</li>
-  <li><strong>Nan Ding</strong>, Lawrence Berkeley National Laboratory, USA</li>
-</ul>
+### Area 1: Application, Algorithms and Libraries
+`
+### Area 2: Architecture, Network/Communications, and Management
 
-<h2 id="posters-co-chairs">Posters Co-Chairs</h2>
-<ul>
-  <li><strong>Chair: Sameer Shende</strong>, the University of Oregon, USA</li>
-  <li><strong>Chair: Yoshio Tanaka</strong>, National Institute of Advanced Industrial Science and Technology (AIST), Japan</li>
-</ul>
+### Area 3: Programming and System Software
 
-<h1 id="technical-papers-committee">Technical Papers Committee</h1>
+### Area 4: Data, Storage and Virtualization
 
-<h3 id="area-1-application-algorithms-and-libraries">Area 1: Application, Algorithms, and Libraries</h3>
-<p>
-  <strong>Chair:</strong> Weifeng Liu, the China University of Petroleum, China.
-  <br>
-  <strong>Chair:</strong> Hai Ah Nam, Lawrence Berkeley National Laboratory, USA.
-</p>
-<ul>
-	<li>Ariful Azad, <i>Indiana University</i></li>
-	<li>Michael Bader, <i>Technical University of Munich</i></li>
-	<li>Cristiana Bentes, <i>UERJ</i></li>
-	<li>Xing Cai, <i>Simula Research Laboratory</i></li>
-	<li>Gabriele Cavallaro, <i>Forschungszentrum Juelich GmbH</i></li>
-	<li>Sarvani Chadalapaka, <i>University of California, Merced</i></li>
-	<li>Sunita Chandrasekaran, <i>University of Delaware</i></li>
-	<li>Long Cheng, <i>Dublin City University, School of Computing</i></li>
-	<li>Florina M. Ciorba, <i>University of Basel</i></li>
-	<li>Jeanine Cook, <i>Sandia National Labs</i></li>
-	<li>Alexandre Denis, <i>Inria</i></li>
-	<li>Fanny Dufossé, <i>Inria</i></li>
-	<li>Sally Ellingson, <i>University of Kentucky</i></li>
-	<li>Jianbin Fang, <i>National University of Defense Technology</i></li>
-	<li>Mathieu Faverge, <i>Bordeaux INP</i></li>
-	<li>Ana Gainaru, <i>Oak Ridge National Laboratory</i></li>
-	<li>Yasaman Ghadar, <i>Argonne Leadership Computing Facility</i></li>
-	<li>Amina Guermouche, <i>Telecom SudParis</i></li>
-	<li>Aleksandar Ilic, <i>INESC-ID; IST, Univeristy of Lisbon</i></li>
-	<li>Emmanuel Jeannot, <i>Inria</i></li>
-	<li>Zhou Jin, <i>China University of Petroleum, Beijing</i></li>
-	<li>Mozhgan Kabiri chimeh, <i>NVIDIA</i></li>
-	<li>Alice Koniges, <i>University of Hawaii</i></li>
-	<li>Ying Li, <i>University of Chicago</i></li>
-	<li>Ang Li, <i>Pacific Northwest National Laboratory</i></li>
-	<li>Jiajia Li, <i>Pacific Northwest National Laboratory</i></li>
-	<li>Chao Li, <i>Shanghai Jiao Tong University</i></li>
-	<li>James Lin, <i>Shanghai Jiao Tong University</i></li>
-	<li>Yang Liu, <i>Lawrence Berkeley National Lab</i></li>
-	<li>Hatem Ltaief, <i>KAUST</i></li>
-	<li>Preeti Malakar, <i>IIT Kanpur</i></li>
-	<li>Nicholas Malaya, <i>AMD Research</i></li>
-	<li>Misbah Mubarak, <i>Amazon Web Services</i></li>
-	<li>Boyana Norris, <i>University of Oregon</i></li>
-	<li>Anna Queralt, <i>Barcelona Supercomputing Center</i></li>
-	<li>David Rogers, <i>Oak Ridge National Laboratory</i></li>
-	<li>Joseph Schoonover, <i>Fluid Numerics LLC</i></li>
-	<li>Xuanhua Shi, <i>Huazhong University of Science and Technology</i></li>
-	<li>Suzanne Shontz, <i>University of Kansas</i></li>
-	<li>Min Si, <i>Argonne National Laboratory</i></li>
-	<li>Laurie Stephey, <i>Lawrence Berkeley National Laboratory</i></li>
-	<li>Daisuke Takahashi, <i>University of Tsukuba</i></li>
-	<li>Guangming Tan, <i>Institute of Computing Technology, Chinese Academy of Sciences</i></li>
-	<li>Dingwen Tao, <i>Washington State University</i></li>
-	<li>Adrian Tate, <i>NAG Ltd.</i></li>
-	<li>Michela Taufer, <i>University of Tennesee Knoxville</i></li>
-	<li>Roselyne Barreto Tchoua, <i>DePaul University</i></li>
-	<li>Mary Thomas, <i>University of California at San Diego</i></li>
-	<li>Mohamed Wahib, <i>National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</i></li>
-	<li>Hao Wang, <i>The Ohio State University</i></li>
-	<li>Xiaolong Xie, <i>Alibaba Cloud</i></li>
-	<li>Luna Xu, <i>IBM Research</i></li>
-	<li>Wei Xue, <i>Tsinghua University</i></li>
-	<li>Wangdong Yang, <i>Hunan University</i></li>
-	<li>Rio Yokota, <i>Tokyo Institute of Technology</i></li>
-	<li>Francieli Zanon Boito, <i>University of Bordeaux, Inria</i></li>
-	<li>Feng Zhang, <i>Renmin University of China</i></li>
-	<li>Harald Koestler, <i>Friedrich-Alexander University</i></li>
-</ul>
-
-<h3 id="area-2-architecture-networkcommunications-and-management">Area 2: Architecture, Network/Communications, and Management</h3>
-<p>
-  <strong>Chair:</strong> Anirban Mandal, Renaissance Computing Institute at UNC (RENCI), Chapel Hill, USA.
-  <br>
-  <strong>Chair:</strong> Hailong Yang, Beihang University, China.
-</p>
-<ul>
-	<li>Rodolfo Azevedo, <i>UNICAMP</i></li>
-	<li>Ivona Brandić, <i>TU Wien</i></li>
-	<li>Ron Brightwell, <i>Sandia National Laboratories</i></li>
-	<li>Andre Brinkmann, <i>Johannes Gutenberg-Universitaet Mainz, ZDV</i></li>
-	<li>Ali R. Butt, <i>Virginia Tech</i></li>
-	<li>Wenguang Chen</li>
-	<li>Guilherme Cox, <i>NVIDIA</i></li>
-	<li>Rafael Ferreira da Silva, <i>University of Southern California</i></li>
-	<li>Yang Hu</li>
-	<li>Myoungsoo Jung, <i>KAIST</i></li>
-	<li>Rajkumar Kettimuthu, <i>Argonne National Laboratory</i></li>
-	<li>Chung-Ta King, <i>Tsinghua University</i></li>
-	<li>Nectarios Koziris, <i>School of ECE, NTUA</i></li>
-	<li>Sriram Krishnamoorthy, <i>Pacific Northwest Natiobnal Laboratory</i></li>
-	<li>Naoya Maruyama, <i>NVIDIA</i></li>
-	<li>Anne-Cecile Orgerie, <i>CNRS</i></li>
-	<li>Dhabaleswar K. (DK) Panda, <i>The Ohio State University</i></li>
-	<li>Xuehai Qian</li>
-	<li>Lavanya Ramakrishnan, <i>Lawrence Berkeley National Lab</i></li>
-	<li>Robert Ricci, <i>University of Utah</i></li>
-	<li>Kentaro Sano, <i>Riken, R-CCS</i></li>
-	<li>Shinji Sumimoto, <i>Fujitsu</i></li>
-	<li>Osamu Tatebe, <i>University of Tsukuba</i></li>
-	<li>John Thomson, <i>University of St Andrews</i></li>
-	<li>Osman Unsal, <i>Barcelona Supercomputing Center</i></li>
-	<li>Sudharshan S. Vazhkudai, <i>Oak Ridge National Laboratory</i></li>
-	<li>Yufeng Xin</li>
-	<li>Seyed Majid Zahedi, <i>University of Waterloo</i></li>
-	<li>Wenli Zheng, <i>Shanghai Jiao Tong University</i></li>
-	<li>Huiyang Zhou, <i>North Carolina State University</i></li>
-</ul>
-
-<h3 id="area-3-programming-and-system-software">Area 3: Programming and System Software</h3>
-<p>
-  <strong>Chair:</strong> Jidong Zhai, Tsinghua University, China.
-  <br>
-  <strong>Chair:</strong> Maciej Malawski, AGH University of Science and Technology, Poland.
-</p>
-<ul>
-	<li>Jorge G. Barbosa, <i>LIACC, Faculdade de Engenharia da Universidade do Porto</i></li>
-	<li>Martin Bobák, <i>Institute of Informatics, Slovak Academy of Sciences</i></li>
-	<li>Ivona Brandić, <i>TU Wien</i></li>
-	<li>Paul Brenner, <i>University of Notre Dame</i></li>
-	<li>Quan Chen, <i>Shanghai Jiao Tong University</i></li>
-	<li>Dazhao Cheng, <i>UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE</i></li>
-	<li>Pedro Diniz, <i>INESC-ID</i></li>
-	<li>Dezun Dong, <i>National University of Defense Technology</i></li>
-	<li>Rosa Filgueira, <i>Edinburgh University, EPCC</i></li>
-	<li>Arturo Gonzalez-Escribano, <i>Universidad de Valladolid</i></li>
-	<li>Qiang Guan, <i>Kent State University, USA</i></li>
-	<li>Xin He, <i>Institute of Computing Technology(ICT), Chinese Academy of Sciences</i></li>
-	<li>shuibing he, <i>Zhejiang University</i></li>
-	<li>Yun (Helen) He, <i>Lawrence Berkeley National Laboratory</i></li>
-	<li>Erwin Laure, <i>Max Planck Computing and Data Facility</i></li>
-	<li>Young Choon Lee, <i>Macquarie University</i></li>
-	<li>Laurent Lefevre, <i>Inria, LIP Laboratory, ENS Lyon, University of Lyon; ENS Lyon</i></li>
-	<li>Jingwen Leng, <i>Shanghai Jiao Tong University</i></li>
-	<li>Shigang Li, <i>ETH Zurich</i></li>
-	<li>Haikun Liu, <i>Huazhong University of Science and Technology</i></li>
-	<li>Xu Liu, <i>North Carolina State University, NC State University</i></li>
-	<li>Robert Lovas, <i>Institute for Computer Science and Control (SZTAKI)</i></li>
-	<li>Wenjing Ma, <i>Institute of Software, Chinese Academy of Sciences</i></li>
-	<li>Robert Mijakovic, <i>Leibniz Supercomputing Centre</i></li>
-	<li>Ana-Maria Oprescu, <i>Universiteit van Amsterdam</i></li>
-	<li>Judy Qiu</li>
-	<li>Ivan Rodero, <i>Rutgers University</i></li>
-	<li>Seetharami Seelam, <i>IBM</i></li>
-	<li>Dandan Song</li>
-	<li>Shanjiang Tang, <i>Tianjin University</i></li>
-	<li>Peter Thoman, <i>University of Innsbruck</i></li>
-	<li>Paolo Trunfio</li>
-	<li>Zhaoguo Wang, <i>Shanghai Jiao Tong University</i></li>
-	<li>Zeke Wang, <i>Zhejiang University</i></li>
-	<li>Zeyi Wen, <i>The University of Western Australia</i></li>
-	<li>Teng Yu, <i>Tsinghua University</i></li>
-	<li>Yu Zhang, <i>Huazhong University of Science and Technology</i></li>
-	<li>Weihua Zhang, <i>Fudan University</i></li>
-	<li>Amelie Chi Zhou, <i>Shenzhen University</i></li>
-</ul>
-
-<h3 id="area-4-data-storage-and-visualization">Area 4: Data, Storage, and Visualization</h3>
-<p>
-  <strong>Chair:</strong> Tom Peterka, Argonne National Laboratory, USA.
-  <br>
-  <strong>Chair:</strong> Xiaosong Ma, Qatar Foundation, Qatar.
-</p>
-<ul>
-	<li>Gabriel Antoniu, <i>Inria</i></li>
-	<li>Leonardo Bautista-Gomez, <i>Barcelona Supercomputing Center</i></li>
-	<li>Suren Byna, <i>Lawrence Berkeley Lab</i></li>
-	<li>SILVINA CAINO-LORES, <i>University of Tennessee-Knoxville</i></li>
-	<li>Jesus Carretero, <i>University Carlos III of Madrid</i></li>
-	<li>Hank Childs, <i>University of Oregon</i></li>
-	<li>Jorge Ejarque, <i>Barcelona Supercomputing Center</i></li>
-	<li>Hanqi Guo, <i>Argonne National Laboratory</i></li>
-	<li>Bingsheng He</li>
-	<li>Shadi Ibrahim, <i>INRIA Rennes</i></li>
-	<li>Anthony Kougkas, <i>Illinois Institute of Technology</i></li>
-	<li>Mayuresh Kunjir, <i>Qatar Computing Research Institute, Hamad Bin Khalifa University</i></li>
-	<li>David Lenz, <i>Argonne National Laboratory</i></li>
-	<li>Dong Li, <i>University of California, Merced</i></li>
-	<li>Glenn Lockwood, <i>Lawrence Berkeley National Laboratory</i></li>
-	<li>Jay Lofstead, <i>Sandia National Laboratories</i></li>
-	<li>Xiaoyi Lu, <i>The Ohio State University</i></li>
-	<li>Suzanne McIntosh, <i>NYU Courant Institute of Mathematical Sciences</i></li>
-	<li>Kenneth Moreland, <i>Sandia National Laboratories</i></li>
-	<li>Bogdan Nicolae, <i>Argonne National Laboratory</i></li>
-	<li>Arnur Nigmetov</li>
-	<li>David Pugmire, <i>Oak Ridge National Laboratory</i></li>
-	<li>Bruno Raffin</li>
-	<li>Mukund Raj, <i>Argonne National Laboratory</i></li>
-	<li>Lavanya Ramakrishnan, <i>Lawrence Berkeley National Lab</i></li>
-	<li>Robert B. Ross, <i>Argonne National Laboratory</i></li>
-	<li>Kento Sato, <i>RIKEN R-CCS</i></li>
-	<li>Robert Sisneros, <i>NCSA, UIUC</i></li>
-	<li>Sudharshan S. Vazhkudai, <i>Oak Ridge National Laboratory</i></li>
-	<li>Song Wu, <i>Huazhong University of Science and Technology</i></li>
-	<li>Bing Xie</li>
-	<li>Orcun Yildiz, <i>Argonne National Laboratory</i></li>
-	<li>Weikuan Yu, <i>Florida State University</i></li>
-	<li>Guangyan Zhang</li>
-</ul>
-
-<h1 id="poster-papers-committee">Poster Papers Committee</h1>
-<ul>
-	<li>Shane Canon, <i>Lawrence Berkeley National Laboratory, USA</i></li>
-	<li>Julien Jaeger, <i>CEA, France</i></li>
-	<li>Prapaporn Rattanatamrong, <i>Thammasat University, Thailand</i></li>
-	<li>Rui Carlos Oliveira, <i>INESC TEC, Portugal</i></li>
-</ul>
-			</div>
-		</article>
-	</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+## Poster Papers Committee

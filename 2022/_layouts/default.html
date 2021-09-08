@@ -73,18 +73,21 @@
         <ul class="left">
           <li class="active"><a href="{% link index.md %}">Home</a></li>
           <li class="divider"></li>
-          <li><a href="{% link papers/index.md %}">Papers</a></li>
-          <li class="divider"></li>
-          <li><a href="{% link authors/index.md %}">Authors</a></li>
+          <li class="has-dropdown inactive">
+            <a>Submit</a>
+            <ul class="dropdown">
+              <li><a href="{% link papers/index.md %}">Papers</a></li>
+              <li><a href="{% link workshops/index.md %}">Workshops</a></li>
+              <li><a href="{% link posters/index.md %}">Posters</a></li>
+              <li><a href="{% link tutorials/index.md %}">Tutorials</a></li>
+              <li><a href="{% link authors/index.md %}">Authors</a></li>
+            </ul>
+          </li>
           <li class="divider"></li>
           <li><a href="{% link sponsors/index.md %}">Sponsors & Support</a></li>
           <li class="divider"></li>
-          <li><a href="{% link workshops/index.md %}">Workshops</a></li>
-          <li class="divider"></li>
-          <li><a href="{% link posters/index.md %}">Posters</a></li>
-          <li class="divider"></li>
           <li class="has-dropdown inactive">
-            <a>PROGRAM</a>
+            <a>Program</a>
             <ul class="dropdown">
               <li><a href="{% link keynote/index.md %}">Keynotes</a></li>
               <li><a href="{% link program/index.md %}">Timetable</a></li>
@@ -114,8 +117,8 @@
 		<div class="small-12 columns">
       <a id="heidelberg" href="https://clustercomp.org/2021/" title="IEEE Cluster 2021">
       </a>
-      <!--<script src="https://clustercomp.org/2021/assets/js/javascript.min.js"></script>
-      <script>
+      <script src="https://clustercomp.org/2021/assets/js/javascript.min.js"></script>
+      <!--<script>
         $(this).backstretch("{% link assets/img/Heidelberg_corr.jpg %}", { fade: 700 });
       </script>-->
 		</div>
@@ -232,8 +235,7 @@
       </nav>
     </div><!-- /#subfooter -->
   </footer>
-  <!--<script src="https://clustercomp.org/2021/assets/js/javascript.min.js"></script>
-  <script>
+  <!--<script>
     $("#masthead").backstretch("{% link assets/img/Heidelberg_corr.jpg %}", { fade: 700 });
   </script>-->
 </body>
