@@ -1,5 +1,5 @@
 ---
-title: Welcome! v2
+title: Welcome! v3
 layout: default
 ---
 <div itemprop="articleSection">
