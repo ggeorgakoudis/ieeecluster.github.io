@@ -1,4 +1,3 @@
 #domain: ggeorgakoudis.github.io
 #url: https://ggeorgakoudis.github.io/ieeecluster.github.io/
-#baseurl: /2022/
-#baseurl: /ieeecluster.github.io/2022
+baseurl: /2022
